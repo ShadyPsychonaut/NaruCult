@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "246631680431",
+    "firebase_url": "https://myfirsttry-71c40.firebaseio.com",
+    "project_id": "myfirsttry-71c40",
+    "storage_bucket": "myfirsttry-71c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246631680431:android:1baad9c7e81f7f88b9c75a",
+        "android_client_info": {
+          "package_name": "com.example.block13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246631680431-phpp04dl75o567pabjkrd6q9tngl05hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.block13",
+            "certificate_hash": "4fa500bf5e7f2b2227b926ff3eb08b08038cd9bf"
+          }
+        },
+        {
+          "client_id": "246631680431-aiuotlmj35hsftcgfuh126gdh17r4nco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDor2lasHR5GwjrG040RHSuRdZoPcDZoOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246631680431-aiuotlmj35hsftcgfuh126gdh17r4nco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246631680431:android:2347c549c29acc52b9c75a",
+        "android_client_info": {
+          "package_name": "com.example.block14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246631680431-aiuotlmj35hsftcgfuh126gdh17r4nco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDor2lasHR5GwjrG040RHSuRdZoPcDZoOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246631680431-aiuotlmj35hsftcgfuh126gdh17r4nco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246631680431:android:6bda7fdfdb6e0e9db9c75a",
+        "android_client_info": {
+          "package_name": "com.fandom.NarutoCult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246631680431-juusfubt2fq4un92iaevkhr5uijlqqan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fandom.NarutoCult",
+            "certificate_hash": "18f9bcc20c960d93df3a86e10fa9f2e357da6a73"
+          }
+        },
+        {
+          "client_id": "246631680431-aiuotlmj35hsftcgfuh126gdh17r4nco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDor2lasHR5GwjrG040RHSuRdZoPcDZoOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246631680431-aiuotlmj35hsftcgfuh126gdh17r4nco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

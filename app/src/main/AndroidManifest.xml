@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.fandom.NarutoCult">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:name="com.fandom.NarutoCult.Block13"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true">
+        <activity android:name="com.fandom.NarutoCult.SetUpProfileActivity"
+            android:label="Set Up"
+            android:parentActivityName="com.fandom.NarutoCult.LaunchActivity"
+            android:theme="@style/SetUpTheme"/>
+        <activity
+            android:name="com.fandom.NarutoCult.SettingsActivity"
+            android:configChanges="orientation"
+            android:label="Settings"
+            android:parentActivityName="com.fandom.NarutoCult.MainActivity"
+            android:theme="@style/SettingsTheme" />
+        <activity
+            android:name="com.fandom.NarutoCult.LaunchActivity"
+            android:configChanges="orientation"
+            android:label="Block13"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.fandom.NarutoCult.theme_activity.ThemeActivity"
+            android:configChanges="orientation"
+            android:label="Player"
+            android:parentActivityName="com.fandom.NarutoCult.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/PlayerTheme" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@menu/main_menu" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.fandom.NarutoCult.main_tabs.people_tab.people_activity.SecondActivity"
+            android:configChanges="orientation"
+            android:parentActivityName="com.fandom.NarutoCult.MainActivity"
+            android:theme="@style/SecondTheme" />
+        <activity
+            android:name="com.fandom.NarutoCult.MainActivity"
+            android:configChanges="orientation"
+            android:theme="@style/AppTheme"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

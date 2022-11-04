@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Glimpse"
+        android:id="@+id/glimpse"
+        android:enabled="true"
+        android:icon="@drawable/ic_camera_black_24dp" />
+
+    <item
+        android:title="Your views"
+        android:id="@+id/brief"
+        android:enabled="true"
+        android:icon="@drawable/ic_info_black_24dp"/>
+
+    <item
+        android:title="Social"
+        android:id="@+id/social"
+        android:enabled="true"
+        android:icon="@drawable/ic_group_black_24dp"/>
+</menu>

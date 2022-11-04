@@ -1,0 +1,94 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#F4FF81</item>
+        <item name="colorPrimaryDark">#E9F744</item>
+        <item name="colorPrimaryVariant">#E9F744</item>
+        <item name="colorOnPrimary">@color/design_default_color_on_secondary</item>
+        <item name="colorSecondary">#8b81ff</item>
+        <item name="colorSecondaryVariant">#6341ED</item>
+        <item name="colorOnSecondary">@color/design_default_color_on_secondary</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="SetUpTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#1A227E</item>
+        <item name="colorPrimaryDark">#E9F744</item>
+        <item name="colorPrimaryVariant">#E9F744</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOnSurface">#1A227E</item>
+        <item name="colorSecondary">#1A547E</item>
+        <item name="colorSecondaryVariant">#6341ED</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="PlayerTheme" parent="Theme.AppCompat.Light.NoActionBar" >
+
+        <item name="colorPrimary">#FF5252</item>
+        <item name="colorPrimaryDark">#F73536</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="SettingsTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">#F4FF81</item>
+        <item name="colorPrimaryDark">#E9F744</item>
+        <item name="colorPrimaryVariant">#E9F744</item>
+        <item name="colorOnPrimary">@color/design_default_color_on_secondary</item>
+        <item name="colorSecondary">#8b81ff</item>
+        <item name="colorSecondaryVariant">#6341ED</item>
+        <item name="colorOnSecondary">@color/design_default_color_on_secondary</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="LauncherTheme" parent="Theme.AppCompat.Light.NoActionBar" >
+
+        <item name="colorPrimary">#f4ff81</item>
+        <item name="colorPrimaryDark">#e9f744</item>
+        <item name="colorAccent">#8B81FF</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.NoActionBar" >
+
+        <item name="colorPrimary">#b00020</item>
+        <item name="colorAccent">#00b090</item>
+    </style>
+    
+    <style name="Widget.App.BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="" >
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="colorPrimary">#F4FF81</item>
+    </style>
+
+    <style name="SecondTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorPrimaryDark">#E9F744</item>
+        <item name="colorPrimaryVariant">#E9F744</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="colorSecondary">#8B81FF</item>
+        <item name="colorSecondaryVariant">#6341ED</item>
+        <item name="colorOnSecondary">@color/design_default_color_on_secondary</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+    
+    <style name="Widget.App.TabLayout" parent="Widget.MaterialComponents.TabLayout.Colored">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.TabLayout</item>
+    </style>
+
+    <style name="ThemeOverlay.App.TabLayout" parent="" >
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing" tools:targetApi="lollipop">0.18</item>
+    </style>
+
+</resources>

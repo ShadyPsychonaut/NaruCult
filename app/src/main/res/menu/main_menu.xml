@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fandom.NarutoCult.MainActivity">
+
+    <item
+        android:id="@+id/theme"
+        android:icon="@drawable/ic_music_note_black_24dp"
+        android:orderInCategory="2"
+        android:title="Theme"
+        app:showAsAction="ifRoom|collapseActionView"/>
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:orderInCategory="3"
+        android:title="Settings"
+        app:showAsAction="ifRoom"/>
+
+</menu>

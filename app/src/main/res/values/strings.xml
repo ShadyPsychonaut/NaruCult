@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">NarutoCult</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="images">Images Fragment</string>
+    <string name="videos">Videos Fragment</string>
+    <string name="warning_dialog">WARNING</string>
+    <string name="warning_msg">Proceed with Caution!</string>
+    <string name="warning_sub_msg">Emotionally Stimulating content Ahead -></string>
+    <string name="caution_msg">Pause the theme ongoing before playing a new one</string>
+    <string name="header_video_txt">Welcome to the Sekai no Hewai.</string>
+    <string name="text2">Koko yori. Sekai ni itami o SHINRA TENSEI!!</string>
+    <string name="text3">Matte!! What jus happened?!</string>
+    <string name="text4">Hold my ramen</string>
+
+    <string-array name="character_clan_names">
+        <item>Uchiha</item>
+        <item>Jiraiya</item>
+        <item>Uzumaki</item>
+        <item>Hyuga</item>
+        <item>Hatake</item>
+        <item>Senju</item>
+        <item>Orochimaru</item>
+        <item>Uchiha</item>
+        <item>Haruno</item>
+        <item>Umino</item>
+        <item>Nara</item>
+        <item>Akimichi</item>
+        <item>Aburame</item>
+        <item>Pain</item>
+        <item>Uchiha</item>
+        <item>Kurama</item>
+        <item>Ichiraku</item>
+        <item>Gai</item>
+        <item>Lee</item>
+        <item>Hidan</item>
+        <item>Kakuzu</item>
+        <item>Sasori</item>
+        <item>Deidara</item>
+    </string-array>
+
+    <string-array name="character_names">
+        <item>Itachi</item>
+        <item>Ero Sennin</item>
+        <item>Naruto</item>
+        <item>Hinata</item>
+        <item>Kakashi</item>
+        <item>Tsunade</item>
+        <item>Sama</item>
+        <item>Sasuke</item>
+        <item>Sakura</item>
+        <item>Iruka</item>
+        <item>Shikamaru</item>
+        <item>Chouji</item>
+        <item>Shino</item>
+        <item>Akatsuki</item>
+        <item>Obito</item>
+        <item>Kyubi</item>
+        <item>Ramen</item>
+        <item>Maito</item>
+        <item>Rock</item>
+        <item>Akatsuki</item>
+        <item>Akatsuki</item>
+        <item>Of the Red Sand</item>
+        <item>Akatsuki</item>
+    </string-array>
+
+    <string-array name="character_images_links">
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fitachi_final.jpg?alt=media&amp;token=9c60992c-c054-47c9-b125-98f6e69f52d1</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fjiraiya.jpeg?alt=media&amp;token=8282464c-ff52-4bb0-bb34-10ab8268a7a5</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fnaruto_sennin.jpg?alt=media&amp;token=c914623c-ba68-424f-946f-92193891681a</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fhinata1.jpg?alt=media&amp;token=86291f3b-90d7-4bbd-b314-ed54a52b9ed1</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fkaka1.jpg?alt=media&amp;token=7fd1cf63-c360-4dee-af26-8ac8d4cc3653</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Ftsunade_icon.jpg?alt=media&amp;token=052c577d-bc5c-436c-a550-23b07c5874d3</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Forochi.png?alt=media&amp;token=07cc4a79-a122-4451-b7ba-2ff3b722a2c8</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fsasuke.jpeg?alt=media&amp;token=f80914d0-09c6-4d56-b889-8a639ec854ae</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fsakura.png?alt=media&amp;token=02657462-8aab-4b6a-9974-26faf9628b60</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fumino2.png?alt=media&amp;token=41f1339c-8f3e-43fc-9732-23e44e6dd22c</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fshikamaru.jpeg?alt=media&amp;token=821d03c4-5696-48b6-a4fd-97cad6404120</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fakimichi_icon.jpg?alt=media&amp;token=2dfe40a0-9ffe-4218-8c6d-12851267eb1d</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fshino_icon.png?alt=media&amp;token=78fb493c-3749-4191-b0da-3287e36e363b</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fpain_final.jpg?alt=media&amp;token=8b83669c-5596-44e9-9bea-bbeabdd6ea42</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fobito.jpeg?alt=media&amp;token=919aa9e2-c8df-4c84-a19a-a04662737212</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2FKurama.png?alt=media&amp;token=3dc26169-4672-46d4-bb9a-52fa9e01d099</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Framen.jpeg?alt=media&amp;token=f56b7cd9-ff3c-4cde-84c8-d6c660ddb003</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fgai_icon.png?alt=media&amp;token=291f0316-3b98-4f19-85fc-ad9dc90fa511</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Flee.jpeg?alt=media&amp;token=789b95f2-7738-4fee-8aac-ad62c88bd18b</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fhidaon_icon_final.jpg?alt=media&amp;token=8d34e29f-8e7a-449b-87b3-323ec217d608</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fkakuzu_icon.jpg?alt=media&amp;token=80b5caef-f696-4f10-aa42-60dc76fff61d</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fsasori_icon_final.jpg?alt=media&amp;token=531c366b-9e1e-4978-91f9-419120f01c88</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/character_imgs%2Fdeidara1.jpeg?alt=media&amp;token=d4a8a8ca-2244-4dd3-9a39-76b1c6cde4e7</item>
+    </string-array>
+
+    <string-array name="theme_titles">
+        <item>Adrenaline Wave</item>
+        <item>Sadness and Sorrow</item>
+        <item>Sign</item>
+        <item>Giving it to the Sudden Rain</item>
+        <item>Glow of a Firefly</item>
+        <item>Hero\u0027s Come Back</item>
+        <item>Diver</item>
+        <item>Blue Bird</item>
+        <item>Blood Circulator</item>
+        <item>Youth\u0027s Rhapsody</item>
+    </string-array>
+
+    <string-array name="youtube_links">
+        <item>yqBkYiSIhxo</item>
+        <item>udaLvnn5SlE</item>
+        <item>16JKpAga4kI</item>
+        <item>jbpcFJvIu4s</item>
+        <item>FsiFZM71Tbo</item>
+        <item>UaEQJSMfxOk</item>
+        <item>iAvcoEX9Cso</item>
+        <item>wspsJ5vit8o</item>
+        <item>IwpLv7iSl0o</item>
+        <item>xPAp01TakLU</item>
+        <item>mE-lmwvF6Xg</item>
+        <item>x4dgJNI2IKo</item>
+        <item>wvWIxPxBMCo</item>
+        <item>HMq2pX79JVA</item>
+        <item>1sE3Ia9N7sY</item>
+        <item>pY5beqnfwKs</item>
+        <item>j7t_d--xwOw</item>
+        <item>sFigpcJWhCY</item>
+        <item>OVSCFeENHTM</item>
+        <item>g3MlTvXZfQs</item>
+        <item>BnZ10CXFlJU</item>
+        <item>5Yeg0Hr84pk</item>
+        <item>r95ISeyt7o8</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/adrenaline.mp3?alt=media&amp;token=f6e25dd5-6424-44ba-9146-ea6c522c0680</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/theme.mp3?alt=media&amp;token=ff453415-98f8-4831-a761-8d7a87efe644</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/sign.mp3?alt=media&amp;token=86d1b1dd-54e7-42bf-8fc1-9eecfb867310</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/givingToTheSudden.mp3?alt=media&amp;token=4bd596b0-b23c-404d-b409-5e9316343c8d</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/glowOfaFirefly.mp3?alt=media&amp;token=f1e4fda4-175b-4b42-bf15-9b24e0452768</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/heroComeBack.mp3?alt=media&amp;token=336d5f90-4621-4ba1-937d-25bf9e837e82</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/diver.mp3?alt=media&amp;token=60d85948-1b59-4886-958c-a96782f3d30d</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/blueBird.mp3?alt=media&amp;token=2823d423-e1bc-4da2-a52d-9fbcdf65ded8</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/bloodCirculator.mp3?alt=media&amp;token=aff4638d-9946-4e1e-9943-a74313d3c85c</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/youthRhapsody.mp3?alt=media&amp;token=c1b9dc3a-cf4b-40e7-a930-d86cd9e46c8d</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_next">Let\u0027s Go</string>
+    <string name="submit">launch</string>
+    <string name="username_label">Username</string>
+    <string name="preferred_character">Preferred character</string>
+    <string name="preferred_element">Preferred element</string>
+
+    <string-array name="region_names">
+        <item>Konohagakure</item>
+        <item>Amegakure</item>
+        <item>Iwagakure</item>
+        <item>Kirigakure</item>
+        <item>Kumogakure</item>
+        <item>Mount Myōbaku</item>
+        <item>Sunagakure</item>
+        <item>Uzushiogakure</item>
+        <item>Otogakure</item>
+        <item>Takumi Village</item>
+        <item>Shimogakure</item>
+        <item>Yugakure</item>
+        <item>Yukigakure</item>
+    </string-array>
+
+    <string-array name="country_name">
+        <item>Land of Fire</item>
+        <item>Unnamed Country</item>
+        <item>Land of Earth</item>
+        <item>Land of Water</item>
+        <item>Land of Lightning</item>
+        <item>Legendary sage region</item>
+        <item>Land of Wind</item>
+        <item>Land of Whirlpools</item>
+        <item>Orochimaru\u0027s secret hideout</item>
+        <item>Land of Rivers</item>
+        <item>Land of Frost</item>
+        <item>Land of Hot Water</item>
+        <item>Land of Snow</item>
+    </string-array>
+
+    <string-array name="region_img_links">
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fkonohaga.jpg?alt=media&amp;token=99cd6031-fd01-4dd6-aaa0-996b06d4242b</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Famega.jpeg?alt=media&amp;token=3ebf503a-c8e3-4159-9295-3793cfdb1f40</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fiwaga.png?alt=media&amp;token=fbb2fe4d-d279-4d93-8fd9-f102ea1d0b63</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fkiriga.png?alt=media&amp;token=2d1b0c01-5f10-4ac1-9e04-a510b27f531e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fkumoga.jpg?alt=media&amp;token=a33ec416-6d10-4d5f-ad84-208b840a247b</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fmount_myo.jpg?alt=media&amp;token=7e1872f8-6442-4091-ba26-1be3a9bd047b</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fsunaga.jpg?alt=media&amp;token=3d97c301-1db0-49d6-ba08-67186233cabb</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2FUzushioga.png?alt=media&amp;token=6d79713e-801c-41d6-8605-cf8ca29132b1</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fotogakure.png?alt=media&amp;token=490958b8-fcac-48c2-915e-fbb5c7c04292</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2FTakumi_vill.png?alt=media&amp;token=b0f7cd0c-ca6f-4599-b8a4-0622dc530bd7</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fshimoga.png?alt=media&amp;token=0022195b-5536-4481-bae0-832dee776657</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2FYuga.jpg?alt=media&amp;token=889efc1b-19fb-41a0-8401-df003bbca0ef</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_images%2Fyukiga.jpg?alt=media&amp;token=9a17d6b9-fcf9-4b70-8703-0dcbc5222091</item>
+    </string-array>
+
+    <string-array name="region_symbols_links">
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fkonoha_i.png?alt=media&amp;token=c954b75b-3e8b-4f22-ba11-3edc45477fcb</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fame_i.png?alt=media&amp;token=c66c7eb1-802c-417b-8836-d0be960460cd</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fiwa_i.jpg?alt=media&amp;token=3a25f683-f74f-4109-bb6c-afc68b56ba3f</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fkiri_i.jpg?alt=media&amp;token=4ac0f326-cc70-4bb3-b1ac-818fbb470561</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fkumo_i.png?alt=media&amp;token=c1f5ece7-1920-4e9d-bf34-b7cb254e6cc7</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fmyobaku_i.jpg?alt=media&amp;token=6711bb06-cbe7-4e72-9800-2f8e88fb1012</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fsuna_i.jpg?alt=media&amp;token=46d36df7-7548-4485-82b5-e4b1c8e20a7b</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fuzushio_i.jpg?alt=media&amp;token=2326295f-7799-4546-805c-15064759af8f</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Foto_i.png?alt=media&amp;token=d21cb7f8-e953-425c-a14a-fb0c950f765c</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Ftakumi_i.jpg?alt=media&amp;token=2215922e-08d8-45ca-a586-c349d7baaf7c</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fshimo_i.jpg?alt=media&amp;token=c6f0f6d5-6757-415c-8545-94a24d0515c3</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fyuga_i.png?alt=media&amp;token=17df56c7-c25b-4566-b5e9-e4aa9c907318</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/myfirsttry-71c40.appspot.com/o/region_symbols%2Fyuki_i.png?alt=media&amp;token=3a95d58d-3933-4f16-8b6b-0bca09fe995f</item>
+    </string-array>
+
+    <string-array name="quote1">
+        <item>Do not judge others simply by their preconceptions, and judgment based on their appearance.</item>
+        <item>Knowing what it feels to be in PAIN, Is exactly why we try to be KIND to others.</item>
+        <item>I\u0027m not gonna run away, I never go back on my word! That\u0027s my nindo: my ninja way.</item>
+        <item>I used to always cry and give up.. I made many wrong turns... But you-</item>
+        <item>I won\u0027t allow my comrades to die. I\u0027ll protect you with my life. Trust me.</item>
+        <item>One of the Legendary Sannin taking on a snot-nosed Genin... I oughta be ashamed of myself.</item>
+        <item>It\u0027s human nature not to realize the true value of something unless they lose it.</item>
+        <item>I understand now. Even if I must take the devil\u0027s fruit, I must gain power. I am an avenger.</item>
+        <item>The beauty of the cherry blossoms color the world! And the will of the girls brings victory!"</item>
+        <item>I acted like an idiot. It was tough, has it been lonely for you Naruto, was it tough Naruto??</item>
+        <item>If women made you a better person, I wouldn\u0027t want to know what you were like before.</item>
+        <item>You can mock me all you want. But if you hurt my friends, I will obliterate you!!</item>
+        <item>Never underestimate your opponent, no matter how small they may seem.</item>
+        <item>Justice comes from vengeance, but that justice only breeds more vengeance.</item>
+        <item>The moment people come to know love, they run the risk of carrying hate.</item>
+        <item>Why do u hesitate? You need my power, right? Well, who do you want to kill?!</item>
+        <item>I could eat it for breakfast, lunch and dinner. Half my body is made of ramen - Naruto</item>
+        <item>That\u0027s it, Lee! Let the power of youth explode!!</item>
+        <item>I want to be stronger than yesterday, if I have to I\u0027ll be stronger than half a day ago, even a minute ago!</item>
+        <item>Let\u0027s savour the utmost of suffering together!</item>
+        <item>It\u0027s only fitting that I take your heart to replace the one you\u0027ve destroyed.</item>
+        <item>I don\u0027t like to wait and I don\u0027t like to keep others waiting. So let me make this quick and sweet.</item>
+        <item>Cower in awe! Recoil in despair! Cry your heart out! Because my art... IS AN EXPLOSION!!</item>
+    </string-array>
+
+    <string-array name="quote2">
+        <item>Those who cannot acknowledge themselves, will eventually fail.</item>
+        <item>I believe that the day will come when people can truly understand each other.</item>
+        <item>When you give up, your dreams and everything else they\u0027re gone.</item>
+        <item>You helped me find the right path. I always chased after you...</item>
+        <item>In society, those who don\u0027t have many abilities tend to complain more.</item>
+        <item>Only when it comes to money. My life is a different story.</item>
+        <item>You know how the game of chess is played, pieces must be sacrificed!</item>
+        <item>I have long since closed my eyes. My only goal is in the darkness.</item>
+        <item>SHANNADO!!!</item>
+        <item>CUT THE STUPID TRICKS! THIS IS YOUR LAST WARNING!!</item>
+        <item>It\u0027s not because I\u0027m lazy, it\u0027s just because I don\u0027t care.</item>
+        <item>I won\u0027t forgive anyone insulting my Best friends..</item>
+        <item>Fight me, and you shall never recover. Forfeit and Withdraw!</item>
+        <item>Just by living, people hurt others without even realizing it.</item>
+        <item>I shall sever the nexuses of this world. That\u0027s why I came back.</item>
+        <item>Naruto.. Let\u0027s show them our powers!!</item>
+        <item>I was raised on ramen and Hardwork - Naruto</item>
+        <item>All efforts are pointless...if you don\u0027t believe in yourself.</item>
+        <item>I am the Handsome Devil of the Hidden Leaf Village!</item>
+        <item>Glory to Lord Jashin sama!!</item>
+        <item>Even hell runs on money. I\u0027d be just fine!!</item>
+        <item>True beauty lies in things that last forever, never rotting or fading.</item>
+        <item>KATSU!!!</item>
+    </string-array>
+
+    <string-array name="quote3">
+        <item>It\u0027s never been the one who becomes Hokage will be acknowledge by everyone, It\u0027s The one who is acknowledge by everyone, becomes the Hokage.</item>
+        <item>The true measure of a shinobi is not how he lives but how he dies. It\u0027s what they did before dying that proves their worth.</item>
+        <item>Listen to yourself whining and complaining like some sorry little bitch. You can whimper all day long for all I care, you\u0027re nothing but a coward.</item>
+        <item>I wanted to catch up to you. I wanted to walk beside you all the time. I just wanted to be with you. You changed me! Your smile is what saved me!</item>
+        <item>If comrades that you trust gather around you, hope can take physical form and become visible. That\u0027s what I believe...</item>
+        <item>Grow up... Death comes with being a shinobi. There are times when death is hard to accept, but if you don\u0027t get over it, there\u0027s no future!</item>
+        <item>Maybe, just maybe, there is no purpose in life… but if you linger a while longer in this world, you might discover something of value in it.</item>
+        <item>You never had a family in the first place! You were on your own right from the beginning, what makes you think you know anything about it?!</item>
+        <item>I\u0027m the one who made Naruto suffer the most. I\u0027ve just been getting it wrong. just been messing it up… I don\u0027t want to get it wrong anymore…</item>
+        <item>It seems like the small leaves in Konoha have inherited that "will of fire". The fire of the leaf will flash its light and protect this village.</item>
+        <item>How many times do I have to tell you? The first move is always a feint. It\u0027s the most basic thing, to land a hit with the second move</item>
+        #
+        <item>As the protector of Nara and Yamanaka clan and the protector of Konohagakure, I leave the chrysalis and ascend as a butterfly.</item>
+        <item>Even if it\u0027s been a while, you should remember your comrades faces. Why? Because otherwise you will hurt their feelings when they call out to you.</item>
+        <item>Sometimes you must hurt in order to cure, fall in order to grow, lose in order to gain cause life\u0027s greatest lessons are learned through pain.</item>
+        <item>Those that break the rules are trash. But those who abandon their comrades are worse than trash. A scum either way, I\u0027d rather break the rules!</item>
+        <item>Naruto..If you really want to do something for us... Then do what you have always done... Prove it to us with your actions! That\u0027s who you are!</item>
+        <item>I\u0027m Uzumaki Naruto! What I like is ramen, especially the kind at the Ichiraku Ramen shop. What I dislike is the three minute wait after you pour in the boiling water.</item>
+        <item>When a man struts around like a peacock, acting like Mr. Big Stuff, he should keep his promises. Even if it kills him.</item>
+        <item>I want to show I can be a splendid ninja as well even if I don\u0027t have ninjutsu or genjutsu... I want to prove it to the whole world!</item>
+        <item>Hell that hurts...You go and stab me all over...Damn both of you...Divine judgment awaits heathens ignorant to the pain of others.</item>
+        <item>Looking at the forehead protector reminds me of the very first Konoha shinobi I fought...Sodai Hokage, that is. </item>
+        <item>I see myself as an unfinished puppet, whose lifeless frame still contains a beating heart at it\u0027s core. I am neither dead, nor am I alive.</item>
+        <item>You were only able to kill Orochimaru thanks to Uchiha blood .... hmmm? You\u0027ve just got blessed with good genes... so quit acting so smug!</item>
+    </string-array>
+
+    <string-array name="quote4">
+        <item>Those who forgive themselves, and are able to accept their true nature... They are the strong ones!</item>
+        <item>The most important thing for a shinobi is the SPIRIT and the will to NEVER GIVE UP!</item>
+        <item>I care more about others than I do for myself, and I won\u0027t let anyone hurt them.”</item>
+        <item>That is why I\u0027m not afraid to die protecting you! Because... I love you."</item>
+        <item>The next generation will always surpass the previous one. It\u0027s one of the never-ending cycles in life.</item>
+        <item>People become stronger because they have things they cannot forget. That\u0027s what you call growth.</item>
+        <item>Either people change or they die before they do. It\u0027s one or the other.</item>
+        <item>My dream doesn\u0027t exist in the future. It lies in the past. That\u0027s the only place it exists.</item>
+        <item>The things that are most important aren\u0027t written in books. You have to learn them yourself.</item>
+        <item>Lord Jiraiya had faith that you were the one who would inherit his will...</item>
+        <item>It doesn\u0027t matter if I never become a chūnin, but I guess I shouldn\u0027t let myself be beaten by a female.</item>
+        <item>I\u0027m not fat, I\u0027m pleasingly plump.</item>
+        <item>I hate explaining the same thing twice..</item>
+        <item>Love is the reason why there is pain. When we lose someone precious to us, hate is born.</item>
+        <item>No such thing as hope exists! The concept of hope is nothing more than giving up, it holds no true meaning.</item>
+        <item>Destroy everything... Erase everything that hurts you... I will save you from your suffering.</item>
+        <item>Naruto congratulations!! All you can eat forever..! XP</item>
+        <item>"What is with your attitude?! We\u0027ll never be young like this again!"</item>
+        <item>A hero is not the one who never falls but the one that who gets up, again and again, never losing sights of his dreams.</item>
+        <item>I\u0027ll escape somehow...and when I do, I\u0027ll find you and bite your throat out!!</item>
+        <item>One of these days, I swear I\u0027ll kill you! - to Hidan</item>
+        <item>Art is something that lasts for all posterity. Art is eternal.</item>
+        <item>Look at those fools. They have no appreciation for art. You have to feel art. Hmmm...?</item>
+    </string-array>
+
+<!--    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>-->
+<!--    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>-->
+
+</resources>
