@@ -1,1 +1,1 @@
-"# NaruCult" 
+# NaruCult 
